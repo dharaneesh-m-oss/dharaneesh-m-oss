@@ -97,7 +97,7 @@ class Dharaneesh {
 ### 💼 Experience
 
 <details>
-<summary><b>Embedded Systems Engineer (Intern) — Indian Institute of Science (IISc), Bengaluru</b> · May 2026 – Jul 2026 · Bengaluru, India</summary>
+<summary><b>Embedded Systems Engineer (Intern) — Indian Institute of Science (IISc), Bengaluru</b> · 1 Month · Bengaluru, India</summary>
 <br/>
 
 > `Embedded Hardware` `Sensor Interfacing` `Real-Time Control` `Firmware`
@@ -105,12 +105,12 @@ class Dharaneesh {
 - Contributing to development and integration of embedded hardware, sensor interfacing, and real-time control systems for research applications
 - Supporting advancement of next-generation laboratory instrumentation through hardware validation and firmware development
 - Delivering system-level testing for precision scientific data acquisition platforms
-- Recognized as the **youngest Embedded Systems Intern** in IISc's history for this role
+- Completed a **1-month intensive internship**, recognized as the **youngest Embedded Systems Intern** in IISc's history for this role
 
 </details>
 
 <details>
-<summary><b>Google Gemini Student Ambassador — Google</b> · May 2026 – Sep 2026</summary>
+<summary><b>Google Gemini Student Ambassador — Google</b> · 2026 · May 2026 – Sep 2026</summary>
 <br/>
 
 > `AI Advocacy` `Technical Workshops` `Community Engagement`
@@ -135,6 +135,21 @@ class Dharaneesh {
 | **[UZHAV — Flood Early Warning System](https://github.com/dharaneesh-m-oss)** | IoT, LoRa, Geospatial Data | 2× Best Technical Paper Award; StartupTN collaboration |
 | **[CureVox — Medical Emergency Alert System](https://github.com/dharaneesh-m-oss)** | GPS, Physiological Sensors, Wireless Comms | Top 15% nationally (3,000/20,000+ participants) |
 | **[Embedded Digital Oscilloscope](https://github.com/dharaneesh-m-oss)** | Embedded C, Real-Time Signal Acquisition | Functional prototype for lab testing & embedded debugging |
+| **[PCB Design Portfolio](https://github.com/dharaneesh-m-oss)** | KiCad, LTspice, DFM | Custom schematic-to-layout PCBs for embedded & instrumentation systems |
+
+</div>
+
+<br/>
+
+### 🔹 Mini Projects
+
+<div align="center">
+
+| Project | Stack | Description |
+|---|---|---|
+| **[Voltage Level Indicator](https://github.com/dharaneesh-m-oss)** | Embedded C, Op-Amps, LEDs | Real-time visual indicator for circuit voltage thresholds |
+| **[Volume Level Indicator](https://github.com/dharaneesh-m-oss)** | Microcontroller, Audio Sensor | Audio-reactive LED display driven by sound intensity |
+| **[Fridge Door Alarm](https://github.com/dharaneesh-m-oss)** | Sensors, Buzzer, Embedded C | Alerts on prolonged door-open state to reduce energy waste |
 
 </div>
 
@@ -153,7 +168,6 @@ class Dharaneesh {
 | 🏅 | Runner-up — Tenkasi Hackathon | IoT-based disaster management solution |
 | 🥇 | 1st Place — Binary Blitz | Digital Electronics Competition |
 | 🌍 | Finalist — SDG Mechovate | Mumbai Hacks |
-| ⚡ | Mini Projects | Voltage Level Indicator, Volume Level Indicator, Fridge Door Alarm |
 
 </div>
 
