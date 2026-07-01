@@ -147,10 +147,18 @@ class Dharaneesh {
 
 | Project | Stack | Description |
 |---|---|---|
-| **[Voltage Level Indicator](https://github.com/dharaneesh-m-oss)** | Embedded C, Op-Amps, LEDs | Real-time visual indicator for circuit voltage thresholds |
-| **[Volume Level Indicator](https://github.com/dharaneesh-m-oss)** | Microcontroller, Audio Sensor | Audio-reactive LED display driven by sound intensity |
-| **[Fridge Door Alarm](https://github.com/dharaneesh-m-oss)** | Sensors, Buzzer, Embedded C | Alerts on prolonged door-open state to reduce energy waste |
-
+| **[USB Bench Power Supply](https://github.com/dharaneesh-m-oss)** | USB-C, DC-DC Buck Converter, Protection Circuit | Portable regulated 5V/9V/12V power supply with overcurrent protection for embedded prototyping. |
+| **[4-Axis Stepper Motor Driver PCB](https://github.com/dharaneesh-m-oss)** | KiCad, DRV8825, Arduino Nano | Designed a modular 4-axis PCB supporting independent stepper control, expansion headers, and external motor power. |
+| **[Spectrometer Trigger Interface](https://github.com/dharaneesh-m-oss)** | BC547, Teensy 4.0, Signal Conditioning | Developed a transistor-based trigger circuit for synchronizing a xenon light source with a CCD spectrometer acquisition system. |
+| **[LoRa GPS Communication Node](https://github.com/dharaneesh-m-oss)** | ESP32, LoRa, GPS, Embedded C | Long-range wireless communication node capable of transmitting GPS coordinates in low-connectivity environments. |
+| **[Battery Management Monitor](https://github.com/dharaneesh-m-oss)** | ADC, Embedded C, LEDs | Monitors battery voltage in real time and provides multi-level charge indication with low-voltage warning. |
+| **[Temperature Controlled Fan](https://github.com/dharaneesh-m-oss)** | LM35, PWM, Embedded C | Automatically adjusts fan speed based on ambient temperature to improve cooling efficiency. |
+| **[Water Tank Level Indicator](https://github.com/dharaneesh-m-oss)** | Water Level Sensors, Buzzer, LEDs | Detects multiple water levels and alerts users when the tank reaches full capacity. |
+| **[Automatic Street Light Controller](https://github.com/dharaneesh-m-oss)** | LDR, Relay, Embedded C | Controls street lighting automatically based on ambient light intensity to reduce power consumption. |
+| **[IR Visitor Counter](https://github.com/dharaneesh-m-oss)** | IR Sensors, LCD, ATmega328P | Counts people entering and exiting a room using dual infrared sensors with real-time occupancy display. |
+| **[Ultrasonic Distance Meter](https://github.com/dharaneesh-m-oss)** | HC-SR04, LCD, Embedded C | Measures object distance with centimeter-level accuracy using ultrasonic time-of-flight measurement. |
+| **[Digital Thermometer](https://github.com/dharaneesh-m-oss)** | LM35, LCD, ADC | Displays real-time ambient temperature with continuous sensor monitoring. |
+| **[Smart Parking Indicator](https://github.com/dharaneesh-m-oss)** | Ultrasonic Sensor, LEDs | Detects vehicle occupancy and indicates available parking spaces using distance sensing. |
 </div>
 
 <br/>
@@ -167,7 +175,9 @@ class Dharaneesh {
 | 🥈 | Top 15% National Finalist | 3,000 / 20,000+ participants — national innovation challenge |
 | 🏅 | Runner-up — Tenkasi Hackathon | IoT-based disaster management solution |
 | 🥇 | 1st Place — Binary Blitz | Digital Electronics Competition |
-| 🌍 | Finalist — SDG Mechovate | Mumbai Hacks |
+| 🌍 | Finalist — SDG | National-level SDG innovation challenge |
+| 🛠️ | Finalist — Mechovate | Mechovate hackathon |
+| 🏙️ | Finalist — Mumbai Hacks | Mumbai Hacks hackathon |
 
 </div>
 
